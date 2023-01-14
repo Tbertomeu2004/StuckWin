@@ -2,6 +2,8 @@
 Development of the interactive interface of a game with simple rules and creation of two automatic game algorithms for algorithmic comparison purposes.
 
 ## Detailed Explanation
+### The game
+### The work
 This work was made over a 52 days learning and evaluation situation.
 
 The final objective was to program the game "StuckWin" with instructions and constraints that had to be respected:
