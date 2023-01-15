@@ -28,7 +28,7 @@ First part:
 * Display of the current state of the game directly into the terminal as if it was in its hexagonal layout, since the game's state is stored in a two dimensional table of characters corresponding to a cell's state (red / blue / empty / doesn't exist), showing each one of them with their own color
 * Listing of the possible positions of a pawn according to its color. If the target cell is out of the bounds of the table, it is replaced with the pawn's coordinates to prevent the game from crashing
 * Verification of a movement's playability and execution according to the selected mode if it is playable
-* Verification of the game's state to tell if the game is over or not (checking for each of the player's pawns if it is playable or not)
+* Verification of the game's state to tell if the game is over or not (checking for each of the player's pawns if it is playable or not) and tell who won if it is over
 * Verification of the player's input to prevent the game from crashing because of indexes being out of bounds of the table (part of the given skeleton that was slightly changed for this reason)
 
 Second part:
