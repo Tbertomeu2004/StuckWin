@@ -1,4 +1,4 @@
-# StuckWin
+# StuckWin (SAÉ 1.01 & 1.02)
 Development of the interactive interface of a game with simple rules and creation of two automatic game algorithms for algorithmic comparison purposes.
 
 ## Detailed Explanation
